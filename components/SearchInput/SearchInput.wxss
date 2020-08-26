@@ -1,0 +1,13 @@
+.search_input {
+  padding: 20rpx;
+  background-color: var(--themeColor);
+}
+.search_input navigator {
+  width: 90%;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+  height: 60rpx;
+  border-radius:30rpx; 
+  line-height: 60rpx;
+}
