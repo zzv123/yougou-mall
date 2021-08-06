@@ -44,6 +44,7 @@ Page({
         // 可以使用旧的数据
         this.Cates = Cates.data;
         let leftMenuList = this.Cates.map(v => v.cat_name);
+        console.log(leftMenuList);
         let rightContent = this.Cates[0].children;
         this.setData({
           leftMenuList,
