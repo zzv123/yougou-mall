@@ -19,7 +19,7 @@ github地址：https://github.com/zzv123/YougouShop
 4. Less
 5. iconfont
 ### 后端
-1. 公共API接口
+1. 公共API接口：https://api-hmugo-web.itheima.net
 
 ## 项目搭建
 1. 申请小程序APPID
